@@ -1,0 +1,41 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/users/" . "qeesung/")
+ ("c:/users/qeesung/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/users/qeesung/.emacs.d/"
+ "e:/UserPersonalInstallation/emacs-24.5-bin-i686-mingw32/bin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CONTRIBUTING.md"
+ "addpm.exe"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/users/" (22377 27112 0 0) "qeesung/" "Public/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/users/qeesung/.emacs.d/" (22383 51820 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("c:/users/qeesung/AppData/" (22377 26126 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/users/qeesung/" (22383 51819 0 0) "「开始」菜单/" "_vim_mru_files" "_viminfo" "Videos/" "Templates/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{8ee054cd-0bc3-11e6-8b62-b21df702c057}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{8ee054cd-0bc3-11e6-8b62-b21df702c057}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{8ee054cd-0bc3-11e6-8b62-b21df702c057}.TM.blf" "NTUSER.DAT{8ee054cc-0bc3-11e6-8b62-b21df702c057}.TxR.blf" "NTUSER.DAT{8ee054cc-0bc3-11e6-8b62-b21df702c057}.TxR.2.regtrans-ms" "NTUSER.DAT{8ee054cc-0bc3-11e6-8b62-b21df702c057}.TxR.1.regtrans-ms" "NTUSER.DAT{8ee054cc-0bc3-11e6-8b62-b21df702c057}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".vim_runtime/" ".vimrc" ".minttyrc" ".local/" ".gnupg/" ".erc/" ".emacs.d/" ".config/" ".cache/" ".bash_history" "../" "./")
+
+ ("e:/$RECYCLE.BIN/" (22377 26201 0 0) "S-1-5-21-3979816336-2578439093-2440447957-500/" "S-1-5-21-3979816336-2578439093-2440447957-1005/" "S-1-5-21-3979816336-2578439093-2440447957-1001/" "S-1-5-21-1391613324-1391360896-3627853852-1001/" "S-1-5-21-1037013111-230593232-2222830743-1001/" "S-1-5-18/" "../" "./")
+
+ ("e:/UserPersonalInstallation/" (22379 61697 0 0) "xunlei_yy/" "xunlei/" "WeChat/" "ShadowSocks/" "NydusVPN/" "left/" "Haozip/" "Git/" "FIFA 15/" "erl7.3/" "emacs-24.5-bin-i686-mingw32/" "DriverGenius/" "CloudMusic/" "apache-tomcat-8.0.30/" "android-sdk/" "../" "./")
+
+ ("e:/UserPersonalInstallation/emacs-24.5-bin-i686-mingw32/" (22099 12924 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("e:/UserPersonalInstallation/emacs-24.5-bin-i686-mingw32/bin/" (22383 51701 0 0) "zlib1.dll" "srptool.exe" "runemacs.exe - 快捷方式.lnk" "runemacs.exe" "regex2.dll" "psktool.exe" "ocsptool.exe" "libXpm.dll" "libtasn1-6.dll" "libnettle-4-7.dll" "libintl-8.dll" "libiconv-2.dll" "libhogweed-2-5.dll" "libgnutls-openssl-27.dll" "libgnutls-28.dll" "libgmp-10.dll" "grep-changelog" "gnutls-serv.exe" "gnutls-cli.exe" "gnutls-cli-debug.exe" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.5.exe" "ebrowse.exe" "danetool.exe" "ctags.exe" "certtool.exe" "addpm.exe" ".emacs.d/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

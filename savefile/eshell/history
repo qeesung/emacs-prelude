@@ -1,0 +1,33 @@
+ls
+pwd
+ll
+ls -a
+ls -l
+pwd
+find ./ -name "*.	lib"
+find ./ -name "*.	lib" -exec ls {} \;
+exit
+cd Desktop/
+ls
+mkdir git-test
+cd git-test/
+git init
+ls
+git statu
+git status
+git add hello.js 
+git status
+git commit -m 'add init file'
+git status
+git config --global user.email "1245712564@qq.com"
+git config --global user.name "qeesung"
+git commit -m 'init reo'
+pwd
+ll
+ls
+git status
+git status
+git add hello.js
+git commit -m 'update hello.js'
+git add hello.js 
+git commit -m 'gix bugs'
