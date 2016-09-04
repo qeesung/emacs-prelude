@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("lastline"
+ (filename . "~/Desktop/emacs-test/qinshichengFile1")
+ (front-context-string . "r lacus, luctus ")
+ (rear-context-string . "aliquet porttito")
+ (position . 5393))
+("line2"
+ (filename . "~/Desktop/emacs-test/qinshichengFile1")
+ (front-context-string . "Neque sodales ut")
+ (rear-context-string . "s quis ipsum?\n\n\n")
+ (position . 2660))
+("line1"
+ (filename . "~/Desktop/emacs-test/qinshichengFile1")
+ (front-context-string . "Ultricies leo in")
+ (rear-context-string)
+ (position . 1))
+)

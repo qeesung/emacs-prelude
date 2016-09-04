@@ -1,1 +1,1 @@
-("~/.emacs.d/" "~/Desktop/git-test/")
+("~/Desktop/my-angular/" "~/.emacs.d/" "~/Desktop/rocketchat-node/" "~/Desktop/karma-test/" "~/Desktop/phantomjs/" "~/Desktop/gulp-test/" "~/Desktop/qeesung-angularjs/" "~/Desktop/qeesung-angularjs/node_modules/testem/" "~/Desktop/react-demo/" "~/Desktop/qeesung-profile/" "~/Desktop/qeesung/" "~/Desktop/qeesung.github.io/" "~/Desktop/nodejs-test/" "~/Desktop/emacs-test/" "~/Desktop/source-code-pro-2.010R-ro-1.030R-it/" "~/Desktop/git-test/")

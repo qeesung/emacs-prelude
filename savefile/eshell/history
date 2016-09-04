@@ -31,3 +31,49 @@ git add hello.js
 git commit -m 'update hello.js'
 git add hello.js 
 git commit -m 'gix bugs'
+npm init
+ls
+ll
+e package.json 
+ls
+ll
+exit
+npm install mocha
+npm install mocha -g
+mocha
+npm install mocha -g
+npm install shouldjs --save
+npm install should --save
+mocha.cmd 
+cd ..
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha.cmd 
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha.cmd 
+mocha
+mocha
+mocha
+mocha
+mocha
+mocha.cmd 
+mocha
+mocha
+ls
+mocha main.controller.spec.js
+node calc.js 
+exit
+python hello.py
+grunt jshint
+grunt jshint

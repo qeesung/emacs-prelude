@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+#name : header
+# --
+/**
+ * author      : qeesung
+ * email       : 1245712564@qq.com
+ * filename    : `(file-name-nondirectory (buffer-file-name))`
+ * create time : `(current-time-string)`
+ * description : $1
+ */
+
+$2
